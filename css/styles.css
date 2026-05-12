@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgba(186, 126, 236, 0.685);
+}
+
+.container {
+  background-color: azure;
+  width: 600px;
+  margin: 350px auto;
+  padding: 16px;
+}
+
+.title {
+  text-align: center;
+  border: 2px solid rgba(186, 126, 236, 0.685);
+}
+
+.list {
+  text-align: center;
+  list-style-type: none;
+}
+.link {
+  margin: 8px 0;
+}
