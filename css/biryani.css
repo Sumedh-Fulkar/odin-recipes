@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Times New Roman", Times, serif;
+}
+
+body {
+  background-color: bisque;
+}
+
+.container {
+  width: 600px;
+  margin: 0px auto;
+  background-color: antiquewhite;
+  padding: 4px 16px;
+  border: 2px dashed black;
+}
+
+.title,
+.content {
+  text-align: center;
+}
+.title h1,
+.sub-content {
+  margin-bottom: 8px;
+  border: 2px solid black;
+}
+.title img {
+  margin-bottom: 8px;
+}
+
+.list {
+  list-style-type: none;
+}
+
+.home-link {
+  text-align: center;
+  margin-top: 4px;
+}
