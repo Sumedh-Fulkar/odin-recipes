@@ -33,6 +33,11 @@ body {
 .list {
   list-style-type: none;
 }
+ol.list {
+  list-style-type: decimal;
+  text-align: left;
+  padding: 20px;
+}
 
 .home-link {
   text-align: center;
